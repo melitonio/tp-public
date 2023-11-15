@@ -14,11 +14,11 @@ public class Main {
         lista.insertar(new Complejo(7.6, 8), 1);
         lista.insertar(new Complejo(7.6, 8), 4);
 
-        System.out.println("\nImprimiendo la lista de números complejos");
+        System.out.println("\nImprimiendo la lista de números complejos ...");
         lista.imprimir();
         lista.ordenar();
 
-        System.out.println("\nImprimiendo la lista ordenada de números complejos");
+        System.out.println("\nImprimiendo la lista ordenada de números complejos ...");
         lista.imprimir();
 
         lista.suprimirDato(new Complejo(7.6, 8));
