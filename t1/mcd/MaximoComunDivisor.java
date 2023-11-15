@@ -1,3 +1,5 @@
+package mcd;
+
 public class MaximoComunDivisor {
     
     public static void main(String[] args) {
