@@ -1,3 +1,4 @@
+/* Programa hola mundo en Java, con argumentos pasados al programa */
 public class Hola{
 	public static void main(String[] args){
 		System.out.println("Hola mundo. Este es mi primer programa de Java");
