@@ -1,0 +1,7 @@
+Note: If you don't see a suggestion, make sure GitHub Copilot is enabled. You should see the Copilot icon at the bottom right of the Visual Studio Code window.
+If a file has been configured as excluded content for GitHub Copilot, the icon in the status bar will have a diagonal line through it. 
+Hover over the icon to see a tooltip that tells you which settings have applied this restriction.
+
+You can enable or disable GitHub Copilot from within Visual Studio Code. The GitHub Copilot status icon in the bottom panel of the Visual Studio Code window indicates whether GitHub Copilot is enabled or disabled. 
+When enabled, the background color of the icon will match the color of the status bar. 
+When disabled, the background color of the icon will contrast with the color of the status bar.
