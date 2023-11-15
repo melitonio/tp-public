@@ -1,5 +1,4 @@
-package t1_listaComplejos;
-public class Programa {
+public class Main {
 
     public static void main(String[] args) {
 
