@@ -2,7 +2,7 @@
 public class Programa {
 
     public static void main(String[] args) {
-        
+
         Lista lista = new Lista();
         lista.insertar(new Complejo(2, 8), 0);
         lista.insertar(new Complejo(2, 5), 1);
