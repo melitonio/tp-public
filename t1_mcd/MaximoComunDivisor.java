@@ -1,4 +1,4 @@
-package mcd;
+package t1_mcd;
 
 public class MaximoComunDivisor {
     

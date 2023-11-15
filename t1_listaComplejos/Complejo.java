@@ -1,4 +1,4 @@
-package listaComplejos;
+package t1_listaComplejos;
 
 /**
  * Autor Melitón Pablo Mangué
